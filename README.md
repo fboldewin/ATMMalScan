@@ -13,7 +13,8 @@ Step1 => Scan process memory and disk. ===> Check if Admin privileges are availa
 
 
 Step2 => ATMMalScan detect a Malware called XFS_DIRECT in a process, gives details about the thread and its rules matches.
-Further a full processmemory dump has been saved to disk, to catch the malicious process, its modules, as well as its stack and heap pages.
+Further a full processmemory dump has been saved to disk, to catch the malicious process,
+its modules, as well as its stack and heap pages.
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/2-Scan-Malware-Detected.PNG" height="600" width="600">
 
 
