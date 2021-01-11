@@ -1,3 +1,3 @@
 # ATMMalScan
 
-![plot](./graphics/ATMMalScan-Logo.PNG)
+< img src="graphics/ATMMalScan-Logo.PNG" width="100px"/ >
