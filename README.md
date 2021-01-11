@@ -1,3 +1,3 @@
 # ATMMalScan
 
-< img src="graphics/ATMMalScan-Logo.PNG" width="100px"/ >
+<img src="https://github.com/favicon.ico" height="24" width="48">
