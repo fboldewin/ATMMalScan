@@ -11,8 +11,7 @@ Currently ATMMalScan does not support codepages that require Unicode, this means
 Step1 => Scan process memory and disk. ===> Check if Admin privileges are available on the device for best results!
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/1-Scan-Mem-Disk.PNG" height="300" width="840">
 
-Step2 => ATMMalScan detect a Malware called XFS_DIRECT in a process, gives details about the thread and its rules matches.
-         Further a full processmemory dump has been saved to disk, to catch the malicious process, its modules, as well as its stack and heap pages.
+Step2 => ATMMalScan detect a Malware called XFS_DIRECT in a process, gives details about the thread and its rules matches. Further a full processmemory dump has been saved to disk, to catch the malicious process, its modules, as well as its stack and heap pages.
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/2-Scan-Malware-Detected.PNG" height="600" width="600">
 
 Step3 =>  Dump can be found here => <Directory where ATMMalScan64.exe has been started>\Dump  
