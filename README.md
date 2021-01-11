@@ -6,3 +6,8 @@ ATMMalScan is a commandline tool for Windows operating systems version 7 and hig
 # Known issues:
 Currently ATMMalScan does not support codepages that require Unicode, this means Windows operating systems that are set to e.g. Cyrillic or Chinese characters, no representative result can be guaranteed.
 
+# Usage
+
+<img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/1-Scan-Mem-Disk.PNG" height="300" width="840">
+
+<img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/2-Scan-Malware-Detected.PNG" height="600" width="600">
