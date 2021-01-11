@@ -18,7 +18,7 @@ its modules, as well as its stack and heap pages.
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/2-Scan-Malware-Detected.PNG" height="600" width="600">
 
 
-Step3 =>  Dump can be found here => <Directory where ATMMalScan64.exe has been started> .//Dump  
+Step3 =>  Dump can be found here => <Directory where ATMMalScan64.exe has been started> .\\Dump  
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/3-Scan-Malware-Dump.PNG" height="200" width="500">
 
 
