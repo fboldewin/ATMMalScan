@@ -6,13 +6,16 @@ ATMMalScan is a commandline tool for Windows operating systems version 7 and hig
 # Known issues:
 Currently ATMMalScan does not support codepages that require Unicode, this means Windows operating systems that are set to e.g. Cyrillic or Chinese characters, no representative result can be guaranteed.
 
+# Requirements:
+Make sure at least Visual C++ Redistributable for Visual Studio 2015 has been installed on the ATM, you like to scan.
+
 # Usage (Example)
 
 Step1 => Scan process memory and disk. ===> Check if Admin privileges are available on the device for best results!
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/1-Scan-Mem-Disk.PNG" height="300" width="840">
 
 
-Step2 => ATMMalScan detect a Malware called XFS_DIRECT in a process, gives details about the thread and its rules matches.
+Step2 => ATMMalScan detected a Malware called XFS_DIRECT in a process, gives details about the thread and its rules matches.
 Further a full processmemory dump has been saved to disk, to catch the malicious process,
 its modules, as well as its stack and heap pages.
 <img src="https://github.com/fboldewin/ATMMalScan/blob/main/graphics/2-Scan-Malware-Detected.PNG" height="600" width="600">
